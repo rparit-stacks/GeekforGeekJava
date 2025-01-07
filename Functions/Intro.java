@@ -13,6 +13,14 @@ public class Intro {
 
     }
 
+    public static int add(int ...a) {
+        int num = 0;
+        for(int ele : a) num += ele;
+                        return num;
+
+    }
+
+
 
     public static void main(String[] args) {
         System.out.println(factorial(5));
