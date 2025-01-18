@@ -13,6 +13,5 @@ public class InputScanner {
 
         System.out.println(number * number);
         System.out.println(string + string);
-
     }
 }
