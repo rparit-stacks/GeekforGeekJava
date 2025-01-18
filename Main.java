@@ -3,6 +3,5 @@ public class Main {
         System.out.println("Hello World!");
         System.out.print("This is the Starting of My Decode Journey");
 
-        Integer num = 34534;
     }
 }
